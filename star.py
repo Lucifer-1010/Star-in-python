@@ -1,3 +1,4 @@
+#created by lucifer1010
 import turtle
 sc=turtle.Screen()
 sc.setup(600,800)
